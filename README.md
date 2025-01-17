@@ -1,5 +1,3 @@
-# desafio-amigo-secreto
-
 # Amigo Secreto
 
 ## Índice
